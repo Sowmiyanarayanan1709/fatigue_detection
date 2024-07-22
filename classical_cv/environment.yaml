@@ -1,0 +1,4 @@
+name: fatigue_det
+channels:
+  - defaults
+prefix: C:\Users\test\anaconda3\envs\fatigue_det
